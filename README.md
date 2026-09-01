@@ -11,7 +11,6 @@ I build practical Agent systems, memory infrastructure, and AI workflows that tu
 - [yichen-skills](https://github.com/mcncarl/yichen-skills) — A collection of practical Codex and Agent Skills I build and maintain.
 - [Agent Memory Vault](https://github.com/mcncarl/agent-memory-vault) — A Markdown-first shared memory system for Claude Code and Codex.
 - [Ailu](https://github.com/mcncarl/ailu) — A local Agent chat and content publishing studio for Obsidian.
-- [WeChat Relay](https://github.com/mcncarl/wechat-relay) — A self-hosted relay for WeChat Official Account draft APIs.
 
 ## Focus
 
