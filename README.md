@@ -1,10 +1,12 @@
 # Yichen / 逸尘
 
-**AI product builder, open-source maintainer, and AI content creator. Born in 2006.**
+**Serial entrepreneur, law student, AI product builder and creator. Born in 2006.**
 
-I build practical Agent systems, memory infrastructure, and AI workflows that turn research into usable products. I also share hands-on insights about AI products, tools, and real-world experiments on [X (@gengdaJ)](https://x.com/gengdaJ).
+I am Yichen, founder of Yu Hackathon (渝客松). I currently work at a legal-tech law firm in Shanghai and build AI products, create practical AI content, and provide services for businesses. My work includes Ailu, Agent Skills, memory systems, workflow automation, and AI video applications.
 
-我是逸尘，2006 年生，一名 AI 产品构建者、开源维护者与 AI 自媒体博主。我关注 Agent 系统、记忆基础设施和实用 AI 工作流，也在 [X（@gengdaJ）](https://x.com/gengdaJ) 持续分享 AI 产品、工具与真实实践。
+我是逸尘，06 年出生的连续创业者、法学生，也是渝客松发起人。目前在上海的法律科技律所工作，持续做 AI 产品、内容和企业服务，包括 Ailu、Skills、Agent 记忆系统、工作流自动化与 AI 视频商业化。
+
+个人介绍、产品、服务与联系方式以 **[yichen.ai](https://yichen.ai/)** 为准。See my [About page](https://yichen.ai/about/) for current information.
 
 ## Selected open-source work
 
@@ -19,7 +21,9 @@ I build practical Agent systems, memory infrastructure, and AI workflows that tu
 - AI product building and creator workflows
 - Legal tech and evidence-led research
 
-## Find me
+## Find me / 联系我
 
-- [Personal website — yichen.homes](https://yichen.homes)
-- [X — @gengdaJ](https://x.com/gengdaJ)
+- [个人网站 / Website — yichen.ai](https://yichen.ai/)
+- [关于我 / About](https://yichen.ai/about/)
+- [X](https://x.com/gengdaJ) · [YouTube](https://www.youtube.com/@yichenai) · [抖音](https://v.douyin.com/diF63UgPZtI) · [小红书](https://xhslink.com/m/3eiF47bau17)
+- 微信 / WeChat：`yichen10801`；备用 / Backup：`yichen365ai`
