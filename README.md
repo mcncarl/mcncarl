@@ -2,9 +2,9 @@
 
 **Serial entrepreneur, law student, AI product builder and creator. Born in 2006.**
 
-I am Yichen, founder of Yu Hackathon (渝客松). I currently work at a legal-tech law firm in Shanghai and build AI products, create practical AI content, and provide services for businesses. My work includes Ailu, Agent Skills, memory systems, workflow automation, and AI video applications.
+I am Yichen, founder of Yu Hackathon (渝客松). I build AI products, create practical AI content, and provide services for businesses. My work includes Ailu, Agent Skills, memory systems, workflow automation, and AI video applications.
 
-我是逸尘，06 年出生的连续创业者、法学生，也是渝客松发起人。目前在上海的法律科技律所工作，持续做 AI 产品、内容和企业服务，包括 Ailu、Skills、Agent 记忆系统、工作流自动化与 AI 视频商业化。
+我是逸尘，06 年出生的连续创业者、法学生，也是渝客松发起人。持续做 AI 产品、内容和企业服务，包括 Ailu、Skills、Agent 记忆系统、工作流自动化与 AI 视频商业化。
 
 个人介绍、产品、服务与联系方式以 **[yichen.ai](https://yichen.ai/)** 为准。See my [About page](https://yichen.ai/about/) for current information.
 
