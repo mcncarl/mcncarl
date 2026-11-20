@@ -1,10 +1,10 @@
 # Yichen / 逸尘
 
-**Serial entrepreneur and third-year law student based in Shenzhen. Born in 2006.**
+**Serial entrepreneur, AI content creator and third-year law student based in Shenzhen. Born in 2006.**
 
-I am Yichen, founder of Yu Hackathon (渝客松). I currently work on go-global products, GTM and DTC, and I build and maintain open-source AI tools, including Ailu, Agent Skills and an agent memory system.
+I am Yichen, founder of Yu Hackathon (渝客松) and an AI content creator on X, YouTube, Douyin and Xiaohongshu. I currently work on go-global products, GTM and DTC, and I build and maintain open-source AI tools, including Ailu, Agent Skills and an agent memory system.
 
-我是逸尘，06 年出生的连续创业者，法学专业大三在读，也是渝客松发起人。目前 base 深圳，在做出海产品、GTM 和 DTC；也在持续维护 Ailu、Skills、Agent 记忆系统等开源项目。
+我是逸尘，06 年出生的连续创业者、AI 自媒体博主，法学专业大三在读，也是渝客松发起人。深耕 X、YouTube、抖音和小红书等多个平台，目前 base 深圳，在做出海产品、GTM 和 DTC，也在持续维护 Ailu、Skills、Agent 记忆系统等开源项目。
 
 个人介绍、产品、服务与联系方式以 **[yichen.ai](https://yichen.ai/)** 为准。See my [About page](https://yichen.ai/about/) for current information.
 
